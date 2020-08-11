@@ -1,8 +1,15 @@
 theme: jekyll-theme-minimal
 title: Rui Pires
-description: Lead of Accenture Artificial Intelligence team in Braga.<br>Cloud/DevOps Solution Architect.<br>8+ years of Software Development in Python/TypeScript/SQL/Docker
-
-
+description: >
+  <br>
+  <b>Summary</b><br>
+  <li>Lead of Accenture Artificial Intelligence team in Braga.</li>
+  <li>8+ years of Software Development</li>
+  <li>Cloud and DevOps Solution Architect.</li>
+  </ul>
+  <br>
+  <b>Contacts</b><br>
+  <b>email</b><a href="mailto:ruipiresc@gmail.com">ruipiresc@gmail.com</a><br>
 author: Rui Pires
 # author-img: ruipiresc.jpg pending upload
 about-author: Born in 1993, Portugal. Master degree in Electrical and Computer Engineering. Leading Accenture Artificial Intelligence team in Braga.
