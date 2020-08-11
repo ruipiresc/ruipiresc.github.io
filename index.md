@@ -1,12 +1,5 @@
 # Artificial Intelligence Team Lead @[Accenture](https://www.accenture.com) in Braga
 
-## Contacts
-
-email: [ruipiresc@gmail.com](mailto:ruipiresc@gmail.com)  
-linkedin: [ruipiresc](https://www.linkedin.com/in/ruipiresc/)  
-github: [ruipiresc](https://github.com/ruipiresc)
-
-
 ## Career
 
 ### Accenture (jan 2017 - present)
@@ -52,22 +45,3 @@ github: [ruipiresc](https://github.com/ruipiresc)
 *october 2015 – september 2016 | Coimbra, Portugal*
 
 - Worked under the supervision of Prof. [Rui Rocha](https://estudogeral.sib.uc.pt/browse?type=author&authority=rp18566) to create [CoopExp](http://hdl.handle.net/10316/81490), an algorithm that allows multiple robots to explore unknown environments in cooperation.
-
-## Education
-
-#### M.Sc. in Electrical and Computer Engineering - University of Coimbra
-*october 2011 – september 2016 | Coimbra, Portugal*
-
-- Specialization in Robotics and Automation 
-- Thesis topic: [CoopExp - Cooperative Multi-Robot Exploration](http://hdl.handle.net/10316/81490).
-
-## Languages
-
-### Programming
-- **Expert**: Python, Typescript
-- **Advanced**: BluePrism, Automation Anywhere, AHK, SQL
-
-### Spoken & Written
-- **Native**: Portuguese
-- **Advanced**: English
-- **Intermediate**: Spanish
