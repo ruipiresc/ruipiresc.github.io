@@ -1,6 +1,7 @@
 # Career
 
-## Accenture (jan 2017 - present)
+## Accenture 
+*jan 2017 - present*
 
 ### Senior Software Developer | Senior Analyst 
 **Intelligent Engineering Services** - *june 2019 - present | Braga, Portugal*
@@ -34,7 +35,7 @@
 # Certificates
 
 ### [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/7da650b6-8c46-44d8-9a98-ed6083bdf78c?source=linked_in_profile)
-**Issued by Amazon** - * on 27 July 2020
+**Issued by Amazon** - *on 27 July 2020*
 
 - Certification earned with a fundamental understanding of IT services and their uses in the AWS Cloud. 
 - Proved to be Cloud fluency and foundational AWS knowledge.
