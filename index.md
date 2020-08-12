@@ -30,8 +30,8 @@
 #### Software Developer | Trainee | Robotic Process Automation}
 *june 2017 - may 2018 | Lsibon, Portugal*
 
-Develop multiple process automation with Automation Anywhere and Java.
-Worked mainly with utilities companies.
+- Develop multiple process automation with Automation Anywhere and Java.
+- Worked mainly with utilities companies.
 
 ## Certificates
 
