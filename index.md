@@ -4,44 +4,46 @@
 
 ### Accenture (jan 2017 - present)
 
-#### Senior Analyst - Intelligent Engineering Services
+#### Senior Software Developer | Senior Analyst | Intelligent Engineering Services
 *june 2019 - present | Braga, Portugal*
 
-- Lead of Artificial Intelligence team in Braga.   
-- Python, Typescript and DevOps technical lead.   
-- Azure Cloud, Chatbot and RPA SME.   
-- Projects for national banks.   
+- Lead a team of 10+ developers on multiple client projects.
+- Design multiple Cloud & OnPrem infrastructures.
+- Implement CI-CD pipelines with Azure DevOps.
+- Python, Typescript, and DevOps technical lead.
+- Principal code reviewer in Python and Typescript Work mainly with banking clients.  
 
-#### Analyst - Artificial Intelligence
+#### Software Developer | Analyst | Artificial Intelligence
 *june 2018 - may 2019 | Braga, Portugal*
 
-- Python, Typescript, and DevOps developer.   
-- Azure Cloud, Chatbot, and RPA.   
-- Projects for national banks.  
+- Lead a team of 5+ developers on multiple client projects.
+- Start the development of internal software accelerators.
+- Principal code reviewer in Python and Typescript.
+- Work mainly with utilities clients on Chatbots and NLP classification.
 
-#### Associate - Artificial Intelligence
+#### Software Developer | Associate | Artificial Intelligence
 *june 2017 - may 2018 | Lsibon, Portugal*
 
-- Java and Blue Prism Developer.  
-- Google/Azure Cloud, Voicebot, and RPA.  
-- Projects for national and international banks.  
+- Develop voice virtual assistants for utilities clients in Java.
+- Worked with both Google Cloud Platform and Amazon Web Services.
 
-#### Associate - Robotic Process Automation}
+#### Software Developer | Trainee | Robotic Process Automation}
 *june 2017 - may 2018 | Lsibon, Portugal*
 
-- Automation Anywhere developer.  
-- Projects for utility companies. 
+Develop multiple process automation with Automation Anywhere and Java.
+Worked mainly with utilities companies.
 
-## Licenses and Certificates
+## Certificates
 
 #### [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/7da650b6-8c46-44d8-9a98-ed6083bdf78c?source=linked_in_profile)
-*issued on 27 July 2020*
+*issued on 27 July 2020 | by Amazon*
 
 -Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud.
 
 ## Research
 
-#### M.Sc. Researcher - Institute of Systems and Robotics
+#### Software Developer | MSc. Researcher Engineer | University of Coimbra
 *october 2015 – september 2016 | Coimbra, Portugal*
 
-- Worked under the supervision of Prof. [Rui Rocha](https://estudogeral.sib.uc.pt/browse?type=author&authority=rp18566) to create [CoopExp](http://hdl.handle.net/10316/81490), an algorithm that allows multiple robots to explore unknown environments in cooperation.
+- Develop “[CoopExp](http://hdl.handle.net/10316/81490) – Cooperative Multi-Robot Exploration” dissertation under the supervision of Prof. [Rui Rocha](https://estudogeral.sib.uc.pt/browse?type=author&authority=rp18566).
+- Worked with ROS and Python.
