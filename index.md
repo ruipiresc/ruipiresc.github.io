@@ -12,7 +12,8 @@
 - Design multiple Cloud & OnPrem infrastructures.
 - Implement CI-CD pipelines with Azure DevOps.
 - Python, Typescript, and DevOps technical lead.
-- Principal code reviewer in Python and Typescript Work mainly with banking clients.  
+- Principal code reviewer in Python and Typescript. 
+- Work mainly with banking clients.  
 
 ### Software Developer | Analyst
 **Artificial Intelligence** - *june 2018 - may 2019 | Braga, Portugal*
